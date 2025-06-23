@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Indian Crime Analysis (2001–2013)</title>
 </head>
 <body>
     <h1>🕵️‍♂️ Indian Crime Analysis (2001–2013)</h1>
